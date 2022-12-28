@@ -21,8 +21,8 @@ class NotesController {
         user_id
       }
     })
-    return await knex("movie_tags").insert(tagsInsert)
-    response.json()
+    await knex("movie_tags").insert(tagsInsert)
+    return response.json()
   }
 
   async show (request, response) {
