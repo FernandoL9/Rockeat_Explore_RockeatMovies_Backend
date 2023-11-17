@@ -1,9 +1,7 @@
 
 # Rockeat Movies
 
-This is backend da aplication Rockeat Movies in stage 08 of Rockeatseat explore.
-
-
+This is the backend developed for the Rocket Móveis application on Rockeatseat explore stage 08.
 
 
 ## Required
