@@ -12,11 +12,14 @@ This is backend da aplication Rockeat Movies in stage 08 of Rockeatseat explore.
 
 ## Instalação
 
-Instale Rockeat Movies com npm
+Instale Rockeat Movies com npm:
 
 ```bash
   npm install 
-  npm run dev
+```
+Para roda o programa execute o comando:
+```bash
+  npm run dev 
 ```
     
 ## Funcionalidades
