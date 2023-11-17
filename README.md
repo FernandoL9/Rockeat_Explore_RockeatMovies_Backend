@@ -28,7 +28,7 @@ Para roda o programa execute o comando:
 - Controllers
 - Provider
 - Routes
-- Tratamento de errors
+- error handling
 - Autenticação em JWT
 
 
