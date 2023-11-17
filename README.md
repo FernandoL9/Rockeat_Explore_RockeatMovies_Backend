@@ -8,11 +8,11 @@ This is backend da aplication Rockeat Movies in stage 08 of Rockeatseat explore.
 
 ## Required
 
-- O projeto está rodando na versão do nodejs 18.18.0.
+- The project is running on the version of nodejs 18.18.0.
 
 ## Instalation
 
-Instale Rockeat Movies com npm:
+Install Rockeat Movies with npm:
 
 ```bash
   npm install 
