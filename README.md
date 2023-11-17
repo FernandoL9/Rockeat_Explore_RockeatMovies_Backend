@@ -10,7 +10,7 @@ This is backend da aplication Rockeat Movies in stage 08 of Rockeatseat explore.
 
 - O projeto está rodando na versão do nodejs 18.18.0.
 
-## Instalação
+## Instalation
 
 Instale Rockeat Movies com npm:
 
@@ -22,12 +22,13 @@ Para roda o programa execute o comando:
   npm run dev 
 ```
     
-## Funcionalidades
+## functionality
 
 - Middleware
+- Controllers
+- Provider
+- Routes
+- Tratamento de errors
 - Autenticação em JWT
-- Preview em tempo real
-- Modo tela cheia
--
-- Multiplataforma
+
 
